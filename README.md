@@ -1,6 +1,11 @@
 # Database Systems Project
 
-This document provides instructions on how to set up and run both the client and server components of our project.
+## Goal
+This platform provides users with one place to access detailed car sales information, conduct easy comparisons, and personalize their search experience. Through this platform, users can explore and understand the pre-owned car market across the United States from 1999 to 2022. 
+
+On the homepage, users will find various statistics, such as the total number of available used cars and their average prices, both nationally and broken down by city and state. They can then refine their search using filters such as location, make, model, condition, year, and color to view cars that match their preferences. Additionally, there’s a budget slider to help users find cars that fit their wallet. The goal is to make buying a car easier and more enjoyable.
+
+This document provides instructions on how to set up and run both the client and server components of the project.
 
 ## Getting Started
 
