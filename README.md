@@ -1,4 +1,4 @@
-# CIS550 Project Group
+# Database Systems Project
 
 This document provides instructions on how to set up and run both the client and server components of our project.
 
